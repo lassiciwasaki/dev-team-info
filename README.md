@@ -10,7 +10,6 @@
 
 * [公開しているソースコード - GitHub](https://github.com/uluru)
 * [Tech blog - Qiita](http://qiita.com/organizations/uluru)
-* [主催したイベント - Doorkeeper](https://uluru.doorkeeper.jp/events)
 
 ## 採用情報
 
